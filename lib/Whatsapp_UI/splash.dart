@@ -30,7 +30,7 @@ class _SplashState extends State<Splash> {
         color: Colors.teal,
         child: Center(
           child: Container(
-              child: Text(
+              child: const Text(
             'Mehdi Raza',
             style: TextStyle(
                 fontSize: 24, fontWeight: FontWeight.bold, color: Colors.red),
